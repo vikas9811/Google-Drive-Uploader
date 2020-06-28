@@ -1,8 +1,8 @@
 class Creds():
     # ENTER Your bot Token Here
-    TG_TOKEN = "947902499:AAFfZr2-lU3koDWvbCrWUOLNR6e8RGwxU_c"
-    
-    
+    TG_TOKEN = "1390474973:AAHyFwRQqeFps2QRNa1sAOjhKBlw603L7EE"
+
+
     
     #  Make Sure You Are Providing both value if you need Teamdrive upload
     # Because of pydrive And pydrive v2 Api
